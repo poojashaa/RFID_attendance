@@ -62,10 +62,4 @@ This Arduino project implements an RFID attendance system using an ESP8266 micro
 2. Open the Serial Monitor to view debugging information.
 3. Ensure your Adafruit IO dashboard is set up with a feed named "attendance."
 
-## Acknowledgments
-
-- This project uses the [Adafruit IO](https://io.adafruit.com/) platform for MQTT communication.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Pooja Saravanakrishnan
